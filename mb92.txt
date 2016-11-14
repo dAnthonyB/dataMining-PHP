@@ -1,0 +1,5 @@
+Name: Martin Burtscher
+Education: BS, MS, Eidgenossische Technische Hochschule 
+Research interests: GPU programming, program parallelization, performance assessment, data compression, computer architecture
+Email: mb92@txstate.edu
+Webpage: http://cs.txstate.edu/~mb92

@@ -1,0 +1,5 @@
+Name: Hongchi Shi
+Education: BS & MS, Beijing University of Aeronautics & Astronautics; PhD, University of Florida
+Research interests: Parallel and distributed computing, Wireless sensor networks, Image processing, and Neural networks
+Email: hs15@txstate.edu
+Webpage: http://cs.txstate.edu/~hs15
